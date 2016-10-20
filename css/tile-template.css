@@ -1,0 +1,76 @@
+/* Boxes */
+.color-1,
+.color-2,
+.color-3,
+.color-4,
+.color-5,
+.pattern-1,
+.pattern-2,
+.pattern-3,
+.pattern-4,
+.pattern-5,
+.icon-1,
+.icon-2,
+.icon-3,
+.icon-4,
+.icon-5 {
+	border: 1px solid #000;
+	display: inline-block;
+	margin: 10px;
+	height: 100px;
+	width: 100px;
+}
+
+.imagery-1 img,
+.imagery-2 img,
+.imagery-3 img,
+.imagery-4 img,
+.imagery-5 img {
+	border: 1px solid #000;
+	height: 200px;
+	width: 300px;
+}
+
+.imagery-1, 
+.imagery-2, 
+.imagery-3, 
+.imagery-4, 
+.imagery-5 {
+	display: inline-block;
+} 
+
+section	{
+	margin: 2em 0;
+	position: relative;
+}
+
+.label {
+	background: rgba(131,131,131,.5);
+	color: #fff;
+	padding: .5em;
+	position: absolute;
+	left: -60px;
+	top: -30px;	
+}
+
+/* Forms & Tables */
+td {
+	border: 1px solid #000;
+	padding: .5em;
+}
+
+label, input, button {
+	display: block;
+	margin: 1em;
+}
+
+/* Figure */
+figure {
+	border: 1px solid #000;
+	padding: 1em;
+}
+
+/*******************************/
+/* DO NOT EDIT BELOW THIS LINE */
+/*******************************/
+
